@@ -19,8 +19,7 @@ NIM : 1313624014
 6. Seller(Add item to inventory, view inventory,Register new item and can be replenished, can set price per item)
 
 # Collaborators (The person you learned from)
-1. ..........
-
+1. Gideon Miracle Sihombing
 # Students (the person you taught to complete the assignments)
 1. ...........
 
