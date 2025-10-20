@@ -28,6 +28,6 @@ AI Tools: Copilot, BlackBoxAi, ChatGPT
 
 Paid AI Plugin (state none, if not subscribed): .............
 
-Total Prompts used (int estimate): 7
+Total Prompts used (int estimate): 16
 
-Dominant prompt used for (seek solution / implement ideas) : Seek solution , show the part that may have an error, and how to implement documentation such as templates, map, etc.
+Dominant prompt used for (seek solution / implement ideas) : Seek solution of error compile and some problem, show the part that may have an error, and how to implement documentation such as templates, map, etc.
